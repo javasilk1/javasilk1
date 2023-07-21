@@ -5,7 +5,7 @@
 </h3>
 
 <p>Welcome to my page! <br/> I am a curious and passionate individual with a love for reading and a passion for
-taking on new challenges. In my leisure time, I create videos and board games(https://itch.io/profile/thisisnotafunnygame),
+taking on new challenges. In my leisure time, I create videos and board games(https://thisisnotafunnygame.itch.io/the-law),
 and I am a co-founder of ya charity organization that helps children in Kenya
 escape poverty ((https://www.yourep.org/)).</p>
 <p>
