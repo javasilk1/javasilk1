@@ -7,14 +7,14 @@
 <p>Welcome to my page! <br/> I am a curious and passionate individual with a love for reading and a passion for
 taking on new challenges. In my leisure time, I create videos and board games(https://itch.io/profile/thisisnotafunnygame),
 and I am a co-founder of ya charity organization that helps children in Kenya
-escape poverty ([yourep](https://www.yourep.org/)).</p>
+escape poverty ((https://www.yourep.org/)).</p>
 <p>
 As a senior software engineer with over a decade of experience in front-end,
 back-end, and mobile development, I have also gained experience as a project
 manager leading small teams of developers and acting as a liaison between the
 team and the end customer.</p>
 <p>
-In 2019, I co-founded Longwave Studio Srl, an innovative company specializing in
+In 2019, I co-founded Longwave Studio Srl (https://longwave.studio/), an innovative company specializing in
 the development of native Apps for iOS and Android, web, backend, analytics,
 and design (UI/UX). Our focus is on creating mobile solutions of the highest
 quality in terms of performance, robustness, and user experience
