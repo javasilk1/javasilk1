@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
 </br>
-<h3 align="center">A passionate tecnology man
+<h3 align="center">A passionate technology man
 
 </h3>
 
