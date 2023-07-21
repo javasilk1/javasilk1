@@ -4,10 +4,10 @@
 
 </h3>
 
-<p>Welcome to my page! </br> I am a curious and passionate individual with a love for reading and a passion for
-taking on new challenges. In my leisure time, I create videos and board games,
+<p>Welcome to my page! <br/> I am a curious and passionate individual with a love for reading and a passion for
+taking on new challenges. In my leisure time, I create videos and board games(https://itch.io/profile/thisisnotafunnygame),
 and I am a co-founder of ya charity organization that helps children in Kenya
-escape poverty (yourep).</p>
+escape poverty ([yourep](https://www.yourep.org/)).</p>
 <p>
 As a senior software engineer with over a decade of experience in front-end,
 back-end, and mobile development, I have also gained experience as a project
